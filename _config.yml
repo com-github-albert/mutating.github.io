@@ -1,1 +1,24 @@
-theme: jekyll-material-theme
+# Basic
+title: Jett's Blog
+author: jett
+description: iOS developer
+
+url: "https://mutating.github.io"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: plain
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", tables]
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 15
+paginate_path: "pages/:num/"
+
+# Social
+social:
+    mail: ma.jiangtao@foxmail.com
+    github: mutating
