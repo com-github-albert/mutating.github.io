@@ -41,14 +41,16 @@ subtitle:   KEEP IT SAMPLE STUPID
         <li class="mix">
             <a href="{{ post.url }}">
     			<div class="card card--article not-visible" >
+                    <div class="card-body">
+                        <div class="card-title">{{ post.title }}</div>
+                    </div>
+                    <div class="card-hero">
+                        <div class="card-image card-image--size-185" data-url="{{ post.card-image }}"></div>
+                    </div>
     				<div class="card-body">
-    					<div class="card-title">{{ post.title }}</div>
     					<div class="card-description card-description--clamp-0">
-                            {{ post.content | strip_html | strip_newlines | truncate: 200 }}
+                            {{ post.brief | strip_html | strip_newlines | truncate: 200 }}
                         </div>
-    				</div>
-    				<div class="card-hero">
-    					<div class="card-image card-image--size-185" data-url="{{ post.card-image }}"></div>
     				</div>
     			    <div class="card-footer">
                         <div class="card-footer-wrapper" layout="row bottom-left">
