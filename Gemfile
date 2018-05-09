@@ -1,4 +1,4 @@
 source 'https://ruby.taobao.org/'
 gem 'jekyll'
-gem 'redcarpet'
+gem 'kramdown'
 gem 'jekyll-paginate'
