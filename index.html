@@ -9,7 +9,7 @@ subtitle:   KEEP IT SAMPLE STUPID
 <div class="container--grid home-container">
     <ul layout="rows top-left" id="MixItUpF13DC5">
         {% for post in paginator.posts %}
-        {% if post.post-card-type == 'article' %}
+        {% if post.card-type == 'article' %}
         <li class="mix" style="display: inline-block;" data-bound="">
             <a href="{{ post.url }}">
                 <div class="card card--article not-visible">
@@ -37,7 +37,7 @@ subtitle:   KEEP IT SAMPLE STUPID
             </a>
         </li>
         {% endif %}
-        {% if post.post-card-type == 'image' %}
+        {% if post.card-type == 'image' %}
         <li class="mix">
             <a href="{{ post.url }}">
     			<div class="card card--article not-visible" >
@@ -49,7 +49,7 @@ subtitle:   KEEP IT SAMPLE STUPID
                     </div>
     				<div class="card-body">
     					<div class="card-description card-description--clamp-0">
-                            {{ post.brief | strip_html | strip_newlines | truncate: 200 }}
+                            {{ post.card-brief | strip_html | strip_newlines | truncate: 200 }}
                         </div>
     				</div>
     			    <div class="card-footer">
