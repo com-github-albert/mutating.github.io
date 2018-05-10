@@ -5,7 +5,7 @@ subtitle:
 date:       2018-05-10
 tags:       code
 card-brief: Why good commit messages matter? Because the specific commit messages can improve development efficiency.
-card-image: https://thumbnail0.baidupcs.com/thumbnail/35a6bf93921fb7337352ea072ca27210?fid=3995765095-250528-233938923917580&time=1525932000&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-T3xH6X%2FRhYQfvtfUzLExWLp4MbE%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=3005428355757018692&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video
+card-image: https://coding.net/u/mutating/p/BlogAssets/git/raw/master/2018/05/2018-05-10-git-commit-message-format/git.jpeg
 card-type:  image
 ---
 
