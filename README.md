@@ -1,7 +1,6 @@
 Jekyll Theme
 ==============
 The simple Jekyll theme with all basic requirements of a GitHub Pages.
-![](https://thumbnail0.baidupcs.com/thumbnail/6e1dd73d9933c5a2291801ffede395c5?fid=3995765095-250528-749845551833651&time=1525856400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-XW3THfSRkBrj9BI31Vn6u2w%2F%2F58%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=2985703096421010374&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
 
 Installation
 ==============
