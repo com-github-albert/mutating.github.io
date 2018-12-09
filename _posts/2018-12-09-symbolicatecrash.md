@@ -5,7 +5,7 @@ subtitle:
 date:       2018-12-09
 tags:       code
 card-brief: It is a tool for symbolicating crash log by Apple.
-card-image: https://coding.net/u/mutating/p/BlogAssets/git/raw/master/2018/12/2018-12-09-symbolicatecrash/Xcode.png
+card-image: https://coding.net/u/mutating/p/BlogAssets/git/blob/master/2018/12/2018-12-09-symbolicatecrash/Xcode.png
 card-type:  image
 ---
 
