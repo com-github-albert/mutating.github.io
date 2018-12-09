@@ -19,3 +19,8 @@ paginate_path: "pages/:num/"
 social:
   mail: ma.jiangtao@foxmail.com
   github: mutating
+
+# Resource
+assets:
+  base: https://github.com/mutating/mutating.github.io
+  resources: https://github.com/mutating/mutating.github.io/resources
