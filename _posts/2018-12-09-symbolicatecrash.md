@@ -4,8 +4,8 @@ title:      Symbolicate Crash
 subtitle:   
 date:       2018-12-09
 tags:       code
-card-brief: It is a tool for symbolicating crash log.
-card-image: https://github.com/mutating/mutating.github.io/blob/master/resources/2018/12/2018-12-09-symbolicatecrash/Xcode.png
+card-brief: It is a tool for symbolicating crash log by Apple.
+card-image: https://coding.net/u/mutating/p/BlogAssets/git/raw/master/2018/12/2018-12-09-symbolicatecrash/Xcode.png
 card-type:  image
 ---
 
