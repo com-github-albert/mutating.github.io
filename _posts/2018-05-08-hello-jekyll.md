@@ -5,7 +5,7 @@ subtitle:
 date:       2018-05-08
 tags:       code
 card-brief: The simple Jekyll theme with all basic requirements of a GitHub Pages.
-card-image: https://coding.net/u/mutating/p/BlogAssets/git/raw/master/2018/05/2018-05-08-hello-jekyll/github-jekyll.jpeg
+card-image: https://github.com/mutating/mutating.github.io/blob/master/resources/2018/05/2018-05-08-hello-jekyll/github-jekyll.jpeg?raw=true
 card-type:  image
 ---
 
